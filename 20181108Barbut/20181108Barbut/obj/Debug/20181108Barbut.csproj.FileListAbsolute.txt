@@ -1,0 +1,7 @@
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\bin\Debug\20181108Barbut.exe.config
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\bin\Debug\20181108Barbut.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\bin\Debug\20181108Barbut.pdb
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\obj\Debug\20181108Barbut.csprojAssemblyReference.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\obj\Debug\20181108Barbut.csproj.CoreCompileInputs.cache
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\obj\Debug\20181108Barbut.exe
+C:\Users\Tuncay\Google Drive\Suskunlar001\20181108Barbut\20181108Barbut\obj\Debug\20181108Barbut.pdb
